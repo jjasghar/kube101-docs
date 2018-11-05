@@ -1,6 +1,6 @@
 # Setup Instructions for IBM Cloud Account
 
-In order to complete the Kubernetes 101 workshop at LISA you'll need
+In order to complete the Kubernetes 101 workshop  you'll need
 the ability to provision a Kubernetes Cluster. We are providing IBM
 Cloud Accounts with Promo codes to do this. This is a detailed walk
 through of that process.
@@ -20,12 +20,12 @@ through of that process.
     }
     li.tag-h3 {
         padding-left: 8px;
-    }
+    }https://ibm.biz/BdYTnv
 </style>
 
-## Step 1: Register for IBM Cloud with the LISA url
+## Step 1: Register for IBM Cloud
 
-Go to [https://ibm.biz/kube101-lisa](https://ibm.biz/kube101-lisa) to start the registration.
+Go to [https://ibm.cloud](https://ibm.cloud) to start the registration.
 
 ![registration page](images/regpage.png)
 
@@ -84,10 +84,10 @@ Create a cluster. Be sure to do the following things:
 
 * Set the region to **US South**
 * Select Free Cluster
-* Name the cluster **kubelisa**
+* Name the cluster **kube101**
 
 You can name it anything you want, but the commands examples use
-kubelisa as the name for consistency.
+kube101 as the name for consistency.
 
 Then click on create.
 
