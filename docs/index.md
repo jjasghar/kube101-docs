@@ -82,7 +82,7 @@ Click on Create.
 
 Create a cluster. Be sure to do the following things:
 
-* Set the region to **US South**
+* Set the region to **Dallas**
 * Select Free Cluster
 * Name the cluster **kube101**
 
