@@ -25,7 +25,7 @@ through of that process.
 
 ## Step 1: Register for IBM Cloud
 
-Go to [https://ibm.cloud](https://ibm.cloud) to start the registration.
+Go to [https://www.ibm.com/cloud](https://www.ibm.com/cloud) to start the registration.
 
 ![registration page](images/regpage.png)
 
